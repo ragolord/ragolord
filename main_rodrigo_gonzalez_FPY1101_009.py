@@ -1,0 +1,2 @@
+import prueba
+prueba.principal()
